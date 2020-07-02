@@ -1,0 +1,2 @@
+# SMART_HOME_SYSTEM
+ AKILLI EV SİSTEMİ w/Arduino & Proteus 8.0
